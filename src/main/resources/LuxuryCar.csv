@@ -1,0 +1,9 @@
+brand, model, fuelType, productionYear, price, features, massageSeats
+BMW, 320D, Diesel, 2005, 10500, softclose, true
+Audi, A8, Diesel, 2010, 15000, bowerswilkins, false
+BMW, 750D, Diesel, 2020, 70000, pedestrian warning, true
+Mercedes-Benz, S-Classe, Petrol, 2021, 130000, ventilated seats, true
+Volkswagen, Phaeton, Diesel, 2010, 7500, navigation system, false
+Jaguar, XF, Petrol, 2011, 13000, laser lights, false
+Mercedes-Benz, E-Classe,diesel, 2005, 5000, automatic climate system, false
+Land Rover, Range Rover, Diesel ,2009, 9000, heated sunroof, true

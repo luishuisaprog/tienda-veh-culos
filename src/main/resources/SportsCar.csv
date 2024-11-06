@@ -1,0 +1,12 @@
+brand, model, fuelType, productionYear, price, topSpeed,bodyType, exhaustType, dragRaceTime
+BMW, 330i, petrol, 2010, 15000, 250, coupe, stock, 13
+Audi, S5, petrol,2011, 21000, 300, coupe, sport exhaust, 12
+Toyota, Supra, petrol, 2020, 45000, 320, coupe, sport exhaust, 11
+Mercedes-Benz, E-Coupe, Diesel, 2011, 13000, 230, coupe, stock, 16
+BMW, 435D, Diesel,2014,17500, 250, gran coupe, stock, 15
+BMW, 640i, petrol, 2015, 25000, 260, coupe, active exhaust, 13
+BMW, M850i, petrol, 2019, 75000, 300, gran coupe, active exhaust, 11
+Audi, RS6, Petrol,2020, 160009, 330, touring, sports exhausts, 10
+BMW, X6 M, Petrol, 2016, 84000, 330,SUV, active sports exhaust, 11
+Mercedes-Benz, AMG GT 4-Door, Petrol, 2018, 120000, 350, Gran Coupe, sports exhaust, 11
+Audi, RS Q8, Petrol, 2021, 160000, 335, SUV, Sports Exhaust, 13

@@ -1,0 +1,11 @@
+brand, model, fuelType, productionYear, price, height, tractionType
+Nissan, Patrol, Diesel, 1995, 12500, 250, 4x4
+Toyota, Land Cruiser, Petrol, 2001, 16000, 260, 4x4
+Subaru, Forester, Diesel, 2010, 6500, 195, AWD
+BMW, X5, Diesel, 2021, 95000, 210, X-Drive
+Audi, Q7, Petrol, 2018, 65000, 215, Quattro
+Mercedes-Benz, GLE Coupe, petrol,2019, 100100, 217, 4matic
+Volkswagen, Touareg,diesel, 2010, 10500, 221, 4Motion
+Suzuki, Vitara,diesel ,2009, 6700, 198, AWD
+Dacia, Duster, diesel,2011, 8300, 201, 4WD
+BMW, X7, petrol,2020, 130000, 212, X-Drive
